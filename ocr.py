@@ -25,7 +25,7 @@ def ocr_image(image_path, language):
 
 
 # Specify the path to the document folder
-folder_path = 'Document'
+folder_path = 'Document/input'
 language = "eng"
 
 # Initialize a variable to store the consolidated result
